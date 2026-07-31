@@ -30,26 +30,40 @@
 
 ## 🪞 About Me
 
-<img align="right" width="290" src="https://readme-jokes.vercel.app/api" alt="dev-jokes" style="display:none;">
+> I'm a first-year **MCA (AI/ML)** student at **VIT Vellore**, currently working as an **AI Intern at Allatone Solutions Pvt Ltd**, focused on learning analytics, AI agents, and system design. My interest sits at the intersection of **applied machine learning** and **production-grade software engineering** — I like taking research-grade models and academic prototypes and turning them into systems that actually run, scale, and hold up under real data.
+>
+> Alongside my internship, I do research under **Prof. Sujatha R.** on cross-modal AI for chronic disease prediction, and I build full-stack products end-to-end — from React frontends to Express/FastAPI backends to the ML pipelines underneath them.
 
-```yaml
-name: "Shreyash Jaiswal"
-role: "AI Engineer @ Allatone Solutions | MCA (AI/ML) Student @ VIT Vellore"
-focus: ["Artificial Intelligence", "Machine Learning", "Full Stack Development", "Backend Systems"]
-mindset: "Ship things that work, then make them elegant."
-```
+<div align="center">
 
-I'm a first-year **MCA (AI/ML)** student at **VIT Vellore**, currently working as an **AI Intern at Allatone Solutions Pvt Ltd**, focused on learning analytics, AI agents, and system design. My interest sits at the intersection of **applied machine learning** and **production-grade software engineering** — I like taking research-grade models and academic prototypes and turning them into systems that actually run, scale, and hold up under real data.
+`Artificial Intelligence` `Machine Learning` `Full Stack Development` `Backend Systems`
 
-Alongside my internship, I do research under **Prof. Sujatha R.** on cross-modal AI for chronic disease prediction, and I build full-stack products end-to-end — from React frontends to Express/FastAPI backends to the ML pipelines underneath them.
+*"Ship things that work, then make them elegant."*
 
-```text
-🔭 Currently building     → AI-driven full-stack products & backend systems for real users
-🧠 Currently researching  → Multi-disease prediction via Cross-Modal Attention Fusion (EHR + wearables)
-🌱 Currently learning     → System design, AI agents, and scalable backend architecture
-💬 Ask me about           → Python, ML pipelines, React/Node full-stack apps, computer vision
-📫 Open to                → AI/ML, Data Science & Backend Development internships
-```
+</div>
+
+<table>
+<tr>
+<td width="40%" valign="top">🔭 <b>Currently building</b></td>
+<td>AI-driven full-stack products &amp; backend systems for real users</td>
+</tr>
+<tr>
+<td valign="top">🧠 <b>Currently researching</b></td>
+<td>Multi-disease prediction via Cross-Modal Attention Fusion (EHR + wearables)</td>
+</tr>
+<tr>
+<td valign="top">🌱 <b>Currently learning</b></td>
+<td>System design, AI agents, and scalable backend architecture</td>
+</tr>
+<tr>
+<td valign="top">💬 <b>Ask me about</b></td>
+<td>Python, ML pipelines, React/Node full-stack apps, computer vision</td>
+</tr>
+<tr>
+<td valign="top">📫 <b>Open to</b></td>
+<td>AI/ML, Data Science &amp; Backend Development internships</td>
+</tr>
+</table>
 
 <br/>
 
