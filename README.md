@@ -353,25 +353,42 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 ## `13` Current Focus
 
-```yaml
-learning:
-  - System design & scalable backend architecture
-  - AI agent orchestration
-  - Advanced explainable AI techniques
+<table>
+<tr>
+<td width="50%" valign="top">
 
-building:
-  - Full-stack AI-powered web applications
-  - Backend microservices in Python & Node.js
+**`LEARNING`**
+- System design & scalable backend architecture
+- AI agent orchestration
+- Advanced explainable AI techniques
 
-exploring:
-  - Multi-modal machine learning
-  - Cloud-native deployment patterns
+</td>
+<td width="50%" valign="top">
 
-open_to:
-  - AI/ML Engineering internships
-  - Data Science internships
-  - Backend Development roles
-```
+**`BUILDING`**
+- Full-stack AI-powered web applications
+- Backend microservices in Python & Node.js
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**`EXPLORING`**
+- Multi-modal machine learning
+- Cloud-native deployment patterns
+
+</td>
+<td valign="top">
+
+**`OPEN TO`**
+- AI/ML Engineering internships
+- Data Science internships
+- Backend Development roles
+
+</td>
+</tr>
+</table>
 
 <br/>
 
