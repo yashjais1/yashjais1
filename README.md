@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/MCA_(AI%2FML)-VIT_Vellore-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/BCA-Shri_Ram_Swaroop_Memorial_University-4C1D95?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍-New_Delhi,_India-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/New_Delhi,_India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-## 🪞 About Me
+## `01` About
 
 > I'm a first-year **MCA (AI/ML)** student at **VIT Vellore**, currently working as an **AI Intern at Allatone Solutions Pvt Ltd**, focused on learning analytics, AI agents, and system design. My interest sits at the intersection of **applied machine learning** and **production-grade software engineering** — I like taking research-grade models and academic prototypes and turning them into systems that actually run, scale, and hold up under real data.
 >
@@ -44,50 +44,50 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">🔭 <b>Currently building</b></td>
+<td width="40%" valign="top"><code>BUILDING</code></td>
 <td>AI-driven full-stack products &amp; backend systems for real users</td>
 </tr>
 <tr>
-<td valign="top">🧠 <b>Currently researching</b></td>
+<td valign="top"><code>RESEARCHING</code></td>
 <td>Multi-disease prediction via Cross-Modal Attention Fusion (EHR + wearables)</td>
 </tr>
 <tr>
-<td valign="top">🌱 <b>Currently learning</b></td>
+<td valign="top"><code>LEARNING</code></td>
 <td>System design, AI agents, and scalable backend architecture</td>
 </tr>
 <tr>
-<td valign="top">💬 <b>Ask me about</b></td>
+<td valign="top"><code>DISCUSS</code></td>
 <td>Python, ML pipelines, React/Node full-stack apps, computer vision</td>
 </tr>
 <tr>
-<td valign="top">📫 <b>Open to</b></td>
+<td valign="top"><code>OPEN TO</code></td>
 <td>AI/ML, Data Science &amp; Backend Development internships</td>
 </tr>
 </table>
 
 <br/>
 
-## 🧰 Tech Stack
+## `02` Tech Stack
 
 <div align="center">
 
-**Languages**
+<sub><b>LANGUAGES</b></sub>
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp&theme=dark" />
 
-**Frontend**
+<sub><b>FRONTEND</b></sub>
 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" />
 
-**Backend & Databases**
+<sub><b>BACKEND &amp; DATABASES</b></sub>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis&theme=dark" />
 
-**AI / ML & Data**
+<sub><b>AI / ML &amp; DATA</b></sub>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch,pandas&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+<sub><b>CLOUD, DEVOPS &amp; TOOLING</b></sub>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,latex,firebase&theme=dark" />
 
@@ -95,28 +95,28 @@
 
 <br/>
 
-## 🧠 AI / ML Expertise
+## `03` AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs for computer vision (drowsiness detection), TensorFlow/Keras |
-| **Classical ML** | ⭐⭐⭐⭐⭐ | K-Means & Hierarchical Clustering, Isolation Forest, Scikit-learn pipelines |
-| **Computer Vision** | ⭐⭐⭐⭐ | OpenCV, Haar Cascades, real-time face/eye detection |
-| **Explainable AI** | ⭐⭐⭐⭐ | Modality-level SHAP attribution for multi-modal clinical models |
-| **Multi-Modal Fusion** | ⭐⭐⭐⭐ | Cross-Modal Attention Fusion across EHR + wearable data streams |
-| **Applied Research** | ⭐⭐⭐⭐ | IEEE-format academic writing, dataset access (PhysioNet/MIMIC-IV) |
-| **AI Agents & System Design** | ⭐⭐⭐ | Agent workflows and learning-analytics systems (Allatone Solutions) |
+| **Deep Learning** | `████████░░` 80% | CNNs for computer vision (drowsiness detection), TensorFlow/Keras |
+| **Classical ML** | `██████████` 100% | K-Means & Hierarchical Clustering, Isolation Forest, Scikit-learn pipelines |
+| **Computer Vision** | `████████░░` 80% | OpenCV, Haar Cascades, real-time face/eye detection |
+| **Explainable AI** | `████████░░` 80% | Modality-level SHAP attribution for multi-modal clinical models |
+| **Multi-Modal Fusion** | `████████░░` 80% | Cross-Modal Attention Fusion across EHR + wearable data streams |
+| **Applied Research** | `████████░░` 80% | IEEE-format academic writing, dataset access (PhysioNet/MIMIC-IV) |
+| **AI Agents & System Design** | `██████░░░░` 60% | Agent workflows and learning-analytics systems (Allatone Solutions) |
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## `04` Featured Projects
 
 <details>
-<summary><b>🩺 CMAFusion-XAI — Cross-Modal Chronic Disease Prediction</b></summary>
+<summary><code>01</code> <b>CMAFusion-XAI</b> — Cross-Modal Chronic Disease Prediction</summary>
 <br/>
 
 Research project (IEEE DataPort) under Prof. Sujatha R., predicting chronic disease risk by fusing EHR records with wearable sensor data — extending a baseline framework with three novel contributions.
@@ -135,7 +135,7 @@ Introduces **Cross-Modal Attention Fusion**, **Multi-Disease Joint Prediction**,
 </details>
 
 <details>
-<summary><b>⚡ novaAI — Full-Stack AI Web Application</b></summary>
+<summary><code>02</code> <b>novaAI</b> — Full-Stack AI Web Application</summary>
 <br/>
 
 A full-stack web application built on a microservices backend with Google-authenticated access, architected and debugged end-to-end.
@@ -152,7 +152,7 @@ A full-stack web application built on a microservices backend with Google-authen
 </details>
 
 <details>
-<summary><b>🔐 Sentinel — Backend Communication Channels API</b></summary>
+<summary><code>03</code> <b>Sentinel</b> — Backend Communication Channels API</summary>
 <br/>
 
 A production-style Python backend service for managing multi-channel communication records (email, phone, etc.) with full CRUD support.
@@ -169,7 +169,7 @@ A production-style Python backend service for managing multi-channel communicati
 </details>
 
 <details>
-<summary><b>😴 Driver Drowsiness Detection System</b></summary>
+<summary><code>04</code> <b>Driver Drowsiness Detection System</b></summary>
 <br/>
 
 A real-time computer vision system that detects driver fatigue and issues alerts before it becomes dangerous.
@@ -186,7 +186,7 @@ A real-time computer vision system that detects driver fatigue and issues alerts
 </details>
 
 <details>
-<summary><b>📊 Sales Analytics & Customer Segmentation</b></summary>
+<summary><code>05</code> <b>Sales Analytics &amp; Customer Segmentation</b></summary>
 <br/>
 
 An end-to-end data science project segmenting customers from historical sales data to drive targeted marketing decisions.
@@ -203,7 +203,7 @@ An end-to-end data science project segmenting customers from historical sales da
 </details>
 
 <details>
-<summary><b>🗂️ Campus Lost & Found Portal</b></summary>
+<summary><code>06</code> <b>Campus Lost &amp; Found Portal</b></summary>
 <br/>
 
 A full-stack campus utility platform to report, track, and recover lost items, built with production-grade backend patterns.
@@ -220,7 +220,7 @@ A full-stack campus utility platform to report, track, and recover lost items, b
 </details>
 
 <details>
-<summary><b>🧩 HR Workflow Designer</b></summary>
+<summary><code>07</code> <b>HR Workflow Designer</b></summary>
 <br/>
 
 A visual workflow builder created for a Tredence Analytics case study, letting HR teams design and manage process flows visually.
@@ -238,7 +238,7 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 💼 Experience
+## `05` Experience
 
 **Artificial Intelligence Intern** · Allatone Solutions Pvt Ltd
 `Jul 2025 – Present · New Delhi, India (Hybrid)`
@@ -263,22 +263,22 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 🏆 Achievements
+## `06` Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🎯 Realistic Multi-Disease AUC Results | Diabetes 0.8541 · Hypertension 0.7871 · CKD 0.8750, after resolving a critical data-leakage bug |
-| 📄 IEEE-Format Research Paper | Authored a complete research paper on cross-modal chronic disease prediction |
-| 🔬 PhysioNet/MIMIC-IV Access | Approved for restricted clinical dataset access under faculty supervision |
-| 📈 Sales Segmentation Impact | Improved targeting accuracy by 25–35% through ML-based customer segmentation |
+| Multi-Disease AUC Results | Diabetes 0.8541 · Hypertension 0.7871 · CKD 0.8750, after resolving a critical data-leakage bug |
+| IEEE-Format Research Paper | Authored a complete research paper on cross-modal chronic disease prediction |
+| PhysioNet/MIMIC-IV Access | Approved for restricted clinical dataset access under faculty supervision |
+| Sales Segmentation Impact | Improved targeting accuracy by 25–35% through ML-based customer segmentation |
 
 </div>
 
 <br/>
 
-## 📜 Certifications
+## `07` Certifications
 
 **IBM**
 
@@ -298,7 +298,7 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 👨‍💻 Coding Profiles
+## `08` Coding Profiles
 
 <div align="center">
 
@@ -308,7 +308,7 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 📊 GitHub Analytics
+## `09` GitHub Analytics
 
 <div align="center">
 
@@ -321,7 +321,7 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 🏅 GitHub Trophies
+## `10` GitHub Trophies
 
 <div align="center">
 
@@ -331,7 +331,7 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 📈 Contribution Activity
+## `11` Contribution Activity
 
 <div align="center">
 
@@ -341,7 +341,7 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 🐍 Contribution Snake
+## `12` Contribution Snake
 
 <div align="center">
 
@@ -351,7 +351,7 @@ A visual workflow builder created for a Tredence Analytics case study, letting H
 
 <br/>
 
-## 🎯 Current Focus
+## `13` Current Focus
 
 ```yaml
 learning:
@@ -375,7 +375,7 @@ open_to:
 
 <br/>
 
-## 🤝 Connect
+## `14` Connect
 
 <div align="center">
 
