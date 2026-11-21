@@ -10,7 +10,14 @@
 
 I build retrieval systems for technical documentation, study how multimodal models make predictions, and develop the backend services that make those systems usable.
 
-<img src="assets/profile/background.svg" width="100%" alt="VIT Vellore · MCA in AI/ML and multimodal ML research. Allatone Solutions · AI internship in learning analytics and AI agents. Unified Mentor · data analysis internship.">
+### Current internship
+
+**Artificial Intelligence Intern · Allatone Solutions Pvt. Ltd.**  
+July 2025–present · New Delhi
+
+I build FastAPI and PostgreSQL services for Sentinel, an endpoint detection and response platform. My work includes a [communication channels API](https://github.com/yashjais1/Communication-Channel-API-FastAPI-PostgreSQL-with-CRUD-endpoints) with typed validation for email and phone records, as well as work on learning analytics and AI agents.
+
+<img src="assets/profile/background.svg" width="100%" alt="VIT Vellore · MCA in AI/ML and multimodal ML research. Unified Mentor · previous data analysis internship.">
 
 ## Selected work
 
