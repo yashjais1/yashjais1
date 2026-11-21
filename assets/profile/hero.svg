@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1160" height="390" viewBox="0 0 1160 390" role="img" aria-labelledby="title">
-<title id="title">Shreyash Jaiswal · Applied AI, machine learning research and backend engineering</title>
+<title id="title">Shreyash Jaiswal · Cloud engineering and applied AI</title>
 
 <defs>
   <radialGradient id="wash" cx=".79" cy=".48" r=".83"><stop stop-color="#532641"/><stop offset=".57" stop-color="#27152b"/><stop offset="1" stop-color="#180e1b"/></radialGradient>
@@ -25,10 +25,10 @@
 <path d="M717 65h19m-19 0v15m330-15h-19m19 0v15M717 337h19m-19 0v-15m330 15h-19m19 0v-15" fill="none" stroke="#f0cc9a" stroke-width="1"/>
 </g>
 <text x="58" y="68" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">SHREYASH JAISWAL  /  PORTFOLIO</text>
-<text x="54" y="162" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="93" >Applied AI</text>
-<text x="57" y="251" fill="#f0cc9a" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-style="italic">&amp; backend systems</text>
+<text x="54" y="162" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="69" >Cloud engineering</text>
+<text x="57" y="251" fill="#f0cc9a" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-style="italic">&amp; applied AI</text>
 <path d="M58 280H590" fill="none" stroke="#a9759c" stroke-width="1"/>
-<text x="58" y="322" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="24" >Retrieval systems · Explainable ML · Backend engineering</text>
-<text x="58" y="359" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">MCA / AI &amp; ML  ·  VIT VELLORE</text>
+<text x="58" y="322" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="24" >Infrastructure · Observability · Backend systems</text>
+<text x="58" y="359" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">CLOUD ENGINEER INTERN  /  SISL INFOTECH</text>
 
 </svg>
