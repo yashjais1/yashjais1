@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="239" viewBox="0 0 1160 239" role="img" aria-labelledby="title">
+<title id="title">Background and experience</title>
+<rect x="1" y="1" width="1158" height="237" rx="18" fill="#201221" stroke="#51334e"/>
+<text x="36" y="42" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">EDUCATION &amp; EXPERIENCE</text>
+<text x="36" y="94" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="43" >From ML research to working software</text>
+<path d="M36 117H1124" fill="none" stroke="#51334e" stroke-width="1"/>
+<text x="36" y="155" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="25" >VIT Vellore</text><text x="36" y="186" fill="#f0cc9a" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="19" >MCA in AI/ML</text><text x="36" y="215" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="18" >Multimodal ML research</text>
+<text x="403" y="155" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="25" >Allatone Solutions</text><text x="403" y="186" fill="#f0cc9a" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="19" >AI Intern</text><text x="403" y="215" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="18" >Learning analytics and AI agents</text>
+<text x="770" y="155" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="25" >Unified Mentor</text><text x="770" y="186" fill="#f0cc9a" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="19" >Data Analyst Intern</text><text x="770" y="215" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="18" >Data analysis and visualization</text>
+<path d="M381 138V217M748 138V217" fill="none" stroke="#51334e" stroke-width="1"/>
+</svg>

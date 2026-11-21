@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="205" viewBox="0 0 1160 205" role="img" aria-labelledby="title">
+<title id="title">CMAFusion-XAI. Fuses electronic health records and wearable signals. Uses cross-modal attention and SHAP for model interpretation. PyTorch  /  XGBoost  /  SHAP</title>
+<rect x="1" y="1" width="1158" height="203" rx="18" fill="#201221" stroke="#51334e"/>
+<rect x="935" y="16" width="209" height="173" rx="12" fill="#2c1931" stroke="none"/>
+<text x="36" y="42" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">EXPLAINABLE MACHINE LEARNING</text>
+<text x="34" y="94" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="42" >CMAFusion-XAI</text>
+<text x="36" y="128" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" >Fuses electronic health records and wearable signals.</text>
+<text x="36" y="157" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" >Uses cross-modal attention and SHAP for model interpretation.</text>
+<text x="36" y="188" fill="#f0cc9a" font-family="Consolas, 'Courier New', monospace" font-size="17" >PyTorch  /  XGBoost  /  SHAP</text>
+<g transform="translate(969 23)">
+<path d="M4 32L72 78 140 32M4 124l68-46 68 46M4 32v92m136-92v92M4 78h136" fill="none" stroke="#e2a7ce" stroke-width="1.55"/><circle cx="4" cy="32" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="4" cy="78" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="4" cy="124" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="72" cy="78" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="140" cy="32" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="140" cy="78" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="140" cy="124" r="3.5" fill="#f0cc9a" stroke="none"/>
+</g>
+</svg>

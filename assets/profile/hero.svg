@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="390" viewBox="0 0 1160 390" role="img" aria-labelledby="title">
+<title id="title">Shreyash Jaiswal · Applied AI, machine learning research and backend engineering</title>
+
+<defs>
+  <radialGradient id="wash" cx=".79" cy=".48" r=".83"><stop stop-color="#532641"/><stop offset=".57" stop-color="#27152b"/><stop offset="1" stop-color="#180e1b"/></radialGradient>
+  <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><path d="M23 0H0V23" fill="none" stroke="#c687b6" stroke-opacity=".12"/></pattern>
+  <clipPath id="frame"><rect x="2" y="2" width="1156" height="386" rx="23"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1158" height="388" rx="24" fill="url(#wash)" stroke="#51334e"/>
+<g clip-path="url(#frame)">
+<rect x="698" y="0" width="462" height="390" rx="0" fill="url(#grid)" stroke="none"/>
+<path d="M654 47V344M707 213H1083M884 50V357" fill="none" stroke="#6f4665" stroke-width="1"/>
+<circle cx="884" cy="213" r="145" fill="none" stroke="#83546f"/><circle cx="884" cy="213" r="113" fill="none" stroke="#66415f"/>
+<ellipse cx="884" cy="213" rx="94" ry="43" transform="rotate(-43 884 213)" fill="none" stroke="#f0cc9a" stroke-opacity="0.53" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="105" ry="50" transform="rotate(-21 884 213)" fill="none" stroke="#e2a7ce" stroke-opacity="0.34" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="116" ry="57" transform="rotate(1 884 213)" fill="none" stroke="#e2a7ce" stroke-opacity="0.34" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="127" ry="64" transform="rotate(23 884 213)" fill="none" stroke="#f0cc9a" stroke-opacity="0.53" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="138" ry="71" transform="rotate(45 884 213)" fill="none" stroke="#e2a7ce" stroke-opacity="0.34" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="149" ry="78" transform="rotate(67 884 213)" fill="none" stroke="#e2a7ce" stroke-opacity="0.34" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="160" ry="85" transform="rotate(89 884 213)" fill="none" stroke="#f0cc9a" stroke-opacity="0.53" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="171" ry="92" transform="rotate(111 884 213)" fill="none" stroke="#e2a7ce" stroke-opacity="0.34" stroke-width="1.1"/>
+<ellipse cx="884" cy="213" rx="182" ry="99" transform="rotate(133 884 213)" fill="none" stroke="#e2a7ce" stroke-opacity="0.34" stroke-width="1.1"/>
+<path d="M791 166l36 13 33-38 52 20 43 39-20 65-53 19-30-56-61-62m36 13 25 49 60-67 23 104m-83-37 103-28M860 141l22 143" fill="none" stroke="#e1b1c5" stroke-width="1.2"/>
+<circle cx="791" cy="166" r="4.8" fill="#f0cc9a" stroke="none"/><circle cx="827" cy="179" r="3.2" fill="#e2a7ce" stroke="none"/><circle cx="860" cy="141" r="3.2" fill="#e2a7ce" stroke="none"/><circle cx="912" cy="161" r="4.8" fill="#f0cc9a" stroke="none"/><circle cx="955" cy="200" r="3.2" fill="#e2a7ce" stroke="none"/><circle cx="935" cy="265" r="3.2" fill="#e2a7ce" stroke="none"/><circle cx="882" cy="284" r="4.8" fill="#f0cc9a" stroke="none"/><circle cx="852" cy="228" r="3.2" fill="#e2a7ce" stroke="none"/><circle cx="884" cy="213" r="3.2" fill="#e2a7ce" stroke="none"/><circle cx="1041" cy="169" r="4.8" fill="#f0cc9a" stroke="none"/><circle cx="990" cy="106" r="3.2" fill="#e2a7ce" stroke="none"/><circle cx="775" cy="285" r="3.2" fill="#e2a7ce" stroke="none"/>
+<path d="M717 65h19m-19 0v15m330-15h-19m19 0v15M717 337h19m-19 0v-15m330 15h-19m19 0v-15" fill="none" stroke="#f0cc9a" stroke-width="1"/>
+</g>
+<text x="58" y="68" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">SHREYASH JAISWAL  /  PORTFOLIO</text>
+<text x="54" y="162" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="93" >Applied AI</text>
+<text x="57" y="251" fill="#f0cc9a" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-style="italic">&amp; backend systems</text>
+<path d="M58 280H590" fill="none" stroke="#a9759c" stroke-width="1"/>
+<text x="58" y="322" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="24" >Retrieval systems · Explainable ML · Backend engineering</text>
+<text x="58" y="359" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">MCA / AI &amp; ML  ·  VIT VELLORE</text>
+
+</svg>

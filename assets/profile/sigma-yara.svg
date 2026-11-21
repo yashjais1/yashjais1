@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="205" viewBox="0 0 1160 205" role="img" aria-labelledby="title">
+<title id="title">Sigma + YARA Detection. Combines log rules and file signatures for endpoint monitoring. Deduplicates alerts and stores them for investigation. Python  /  FastAPI  /  PostgreSQL  /  Sigma  /  YARA</title>
+<rect x="1" y="1" width="1158" height="203" rx="18" fill="#201221" stroke="#51334e"/>
+<rect x="935" y="16" width="209" height="173" rx="12" fill="#2c1931" stroke="none"/>
+<text x="36" y="42" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">DEFENSIVE SECURITY ENGINEERING</text>
+<text x="34" y="94" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="42" >Sigma + YARA Detection</text>
+<text x="36" y="128" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" >Combines log rules and file signatures for endpoint monitoring.</text>
+<text x="36" y="157" fill="#cbb8ce" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22" >Deduplicates alerts and stores them for investigation.</text>
+<text x="36" y="188" fill="#f0cc9a" font-family="Consolas, 'Courier New', monospace" font-size="17" >Python  /  FastAPI  /  PostgreSQL  /  Sigma  /  YARA</text>
+<g transform="translate(969 23)">
+<path d="M8 33h34l30 44 30-44h35M8 120h34l30-43 30 43h35m-65-43v67M55 23h35M55 132h35" fill="none" stroke="#e2a7ce" stroke-width="1.55"/><circle cx="8" cy="33" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="137" cy="33" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="72" cy="77" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="8" cy="120" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="137" cy="120" r="3.5" fill="#f0cc9a" stroke="none"/><circle cx="72" cy="144" r="3.5" fill="#f0cc9a" stroke="none"/>
+</g>
+</svg>

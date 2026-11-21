@@ -1,40 +1,61 @@
-# Shreyash Jaiswal
+<img src="assets/profile/hero.svg" width="100%" alt="Shreyash Jaiswal · Applied AI and backend systems · Retrieval systems, explainable ML and backend engineering · VIT Vellore">
 
-**Applied AI · Machine learning research · Backend engineering**
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyash-jaiswal-43803b1ba/"><img src="https://img.shields.io/badge/LinkedIn-4A2949?style=for-the-badge&amp;labelColor=201221&amp;logo=linkedin&amp;logoColor=F8F0F9" alt="LinkedIn"></a>
+  <a href="mailto:yashjaiswal.3535m@gmail.com"><img src="https://img.shields.io/badge/Email-4A2949?style=for-the-badge&amp;labelColor=201221&amp;logo=gmail&amp;logoColor=F8F0F9" alt="Email"></a>
+  <a href="https://leetcode.com/u/yashjaiss/"><img src="https://img.shields.io/badge/LeetCode-4A2949?style=for-the-badge&amp;labelColor=201221&amp;logo=leetcode&amp;logoColor=F8F0F9" alt="LeetCode"></a>
+</p>
 
-I build AI systems that people can try and engineers can evaluate. My work spans retrieval systems for technical documentation, explainable models for clinical research, and backend services that turn prototypes into usable applications.
+## About
 
-[LinkedIn](https://www.linkedin.com/in/shreyash-jaiswal-43803b1ba/) · [Email](mailto:yashjaiswal.3535m@gmail.com) · [LeetCode](https://leetcode.com/u/yashjaiss/)
+I build retrieval systems for technical documentation, study how multimodal models make predictions, and develop the backend services that make those systems usable.
 
-## Featured projects
+<img src="assets/profile/background.svg" width="100%" alt="VIT Vellore · MCA in AI/ML and multimodal ML research. Allatone Solutions · AI internship in learning analytics and AI agents. Unified Mentor · data analysis internship.">
 
-### [KubeSense](https://github.com/yashjais1/KubeSense-Agentic-RAG-assistant-for-Kubernetes-operations-docs)
-An assistant for querying Kubernetes operations documentation. LangGraph coordinates retrieval and response generation, Qdrant and FlashRank handle search and reranking, and a RAGAS suite evaluates answer quality.
+## Selected work
 
-`Python` · `FastAPI` · `LangGraph` · `Qdrant` · `RAGAS`
+<a href="https://github.com/yashjais1/KubeSense-Agentic-RAG-assistant-for-Kubernetes-operations-docs"><img src="assets/profile/kubesense.svg" width="100%" alt="KubeSense. An assistant for Kubernetes operations docs. Combines agent planning, vector search and reranking. Python  /  FastAPI  /  LangGraph  /  Qdrant  /  RAGAS"></a>
 
-### [CMAFusion-XAI](https://github.com/yashjais1/CMAFusion_XAI)
-A VIT Vellore research project that uses cross-modal attention to combine electronic health records and wearable signals for chronic disease prediction. It uses SHAP and modality ablations to examine how each input contributes.
+[View KubeSense repository](https://github.com/yashjais1/KubeSense-Agentic-RAG-assistant-for-Kubernetes-operations-docs)
 
-`PyTorch` · `XGBoost` · `SHAP`
+<a href="https://github.com/yashjais1/CMAFusion_XAI"><img src="assets/profile/cmafusion.svg" width="100%" alt="CMAFusion-XAI. Fuses electronic health records and wearable signals. Uses cross-modal attention and SHAP for model interpretation. PyTorch  /  XGBoost  /  SHAP"></a>
 
-### [Driver Drowsiness Detection](https://github.com/yashjais1/Driver-Drowsiness-Detection-System)
-A webcam-based computer vision project that detects signs of drowsiness from facial landmarks and image features. It compares a geometric baseline with CNN models, evaluates on subject-separated splits, and visualizes model attention with Grad-CAM.
+[View CMAFusion-XAI repository](https://github.com/yashjais1/CMAFusion_XAI)
 
-`TensorFlow` · `OpenCV` · `MediaPipe`
+<a href="https://github.com/yashjais1/Driver-Drowsiness-Detection-System"><img src="assets/profile/drowsiness.svg" width="100%" alt="Driver Drowsiness Detection. Detects signs of drowsiness from a webcam feed. Compares geometric and CNN models with Grad-CAM visualizations. TensorFlow  /  OpenCV  /  MediaPipe"></a>
 
-### [Sigma + YARA Detection Pipeline](https://github.com/yashjais1/sigma-yara-detection-pipeline)
-A defensive endpoint telemetry service that combines Sigma log rules with YARA file signatures and stores deduplicated alerts for investigation.
+[View Driver Drowsiness Detection repository](https://github.com/yashjais1/Driver-Drowsiness-Detection-System)
 
-`Python` · `FastAPI` · `PostgreSQL` · `Sigma` · `YARA`
+<a href="https://github.com/yashjais1/sigma-yara-detection-pipeline"><img src="assets/profile/sigma-yara.svg" width="100%" alt="Sigma + YARA Detection. Combines log rules and file signatures for endpoint monitoring. Deduplicates alerts and stores them for investigation. Python  /  FastAPI  /  PostgreSQL  /  Sigma  /  YARA"></a>
 
-### [Campus Lost & Found](https://github.com/yashjais1/lost-and-found-campus-portal-Redis-BullMQ-Integration)
-A full-stack portal for reporting lost items, reviewing claims, and scheduling handovers. Redis handles caching and BullMQ runs background jobs.
+[View Sigma + YARA Detection repository](https://github.com/yashjais1/sigma-yara-detection-pipeline)
 
-`TypeScript` · `React` · `Express` · `PostgreSQL` · `Redis`
+<a href="https://github.com/yashjais1/lost-and-found-campus-portal-Redis-BullMQ-Integration"><img src="assets/profile/campus.svg" width="100%" alt="Campus Lost &amp; Found. A campus portal for reporting items and reviewing claims. Uses Redis caching and BullMQ for background jobs. TypeScript  /  React  /  Express  /  PostgreSQL  /  Redis"></a>
 
-## Background
+[View Campus Lost & Found repository](https://github.com/yashjais1/lost-and-found-campus-portal-Redis-BullMQ-Integration)
 
-- **VIT Vellore** · MCA in AI/ML and research on multimodal learning and model interpretability with Prof. Sujatha R.
-- **Allatone Solutions** · AI internship focused on learning analytics, AI agent design, and backend architecture.
-- **Unified Mentor** · Data analysis internship focused on analytics and visualization.
+## Toolkit
+
+<img src="assets/profile/toolkit.svg" width="100%" alt="AI and ML: PyTorch, TensorFlow, LangGraph, SHAP. Backend: Python, FastAPI, Node.js, Express. Web: TypeScript, React, Vite. Data: PostgreSQL, Redis, Qdrant, BullMQ.">
+
+## Commit log
+
+<a href="https://github.com/yashjais1#js-contribution-activity"><img src="assets/profile/activity.svg" width="100%" alt="GitHub contribution calendar snapshot from November 21, 2026. 52 contributions across 15 active days, with 11 contributions on the busiest day."></a>
+
+[View live contributions on GitHub](https://github.com/yashjais1#js-contribution-activity)
+
+## Certifications
+
+- **IBM SkillsBuild** · AI Literacy
+- **CITI Program** · Data or Specimens Only Research
+- **Google via Coursera** · Crash Course on Python
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyash-jaiswal-43803b1ba/"><img src="https://img.shields.io/badge/LinkedIn-4A2949?style=for-the-badge&amp;labelColor=201221&amp;logo=linkedin&amp;logoColor=F8F0F9" alt="LinkedIn"></a>
+  <a href="mailto:yashjaiswal.3535m@gmail.com"><img src="https://img.shields.io/badge/Email-4A2949?style=for-the-badge&amp;labelColor=201221&amp;logo=gmail&amp;logoColor=F8F0F9" alt="Email"></a>
+  <a href="https://leetcode.com/u/yashjaiss/"><img src="https://img.shields.io/badge/LeetCode-4A2949?style=for-the-badge&amp;labelColor=201221&amp;logo=leetcode&amp;logoColor=F8F0F9" alt="LeetCode"></a>
+</p>
+
+<img src="assets/profile/signature.svg" width="100%" alt="Shreyash Jaiswal">

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="314" viewBox="0 0 1160 314" role="img" aria-labelledby="title">
+<title id="title">GitHub activity snapshot on November 21, 2026. 52 contributions across 15 active days. The snake traces the public calendar.</title>
+<defs><pattern id="cells" x="50" y="127" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="16" height="16" rx="4" fill="#342338"/></pattern></defs>
+<style>
+.snake{animation:sweep 24s linear infinite} @keyframes sweep{from{stroke-dashoffset:3.25}to{stroke-dashoffset:-100}}
+@keyframes cell0{0%,51.35%{opacity:1}51.65%,100%{opacity:0}} .cell0{animation:cell0 24s steps(1,end) infinite}
+@keyframes cell1{0%,79.73%{opacity:1}80.03%,100%{opacity:0}} .cell1{animation:cell1 24s steps(1,end) infinite}
+@keyframes cell2{0%,37.84%{opacity:1}38.14%,100%{opacity:0}} .cell2{animation:cell2 24s steps(1,end) infinite}
+@keyframes cell3{0%,47.84%{opacity:1}48.14%,100%{opacity:0}} .cell3{animation:cell3 24s steps(1,end) infinite}
+@keyframes cell4{0%,66.49%{opacity:1}66.79%,100%{opacity:0}} .cell4{animation:cell4 24s steps(1,end) infinite}
+@keyframes cell5{0%,67.03%{opacity:1}67.33%,100%{opacity:0}} .cell5{animation:cell5 24s steps(1,end) infinite}
+@keyframes cell6{0%,75.95%{opacity:1}76.25%,100%{opacity:0}} .cell6{animation:cell6 24s steps(1,end) infinite}
+@keyframes cell7{0%,95.68%{opacity:1}95.98%,100%{opacity:0}} .cell7{animation:cell7 24s steps(1,end) infinite}
+@keyframes cell8{0%,18.11%{opacity:1}18.41%,100%{opacity:0}} .cell8{animation:cell8 24s steps(1,end) infinite}
+@keyframes cell9{0%,67.57%{opacity:1}67.87%,100%{opacity:0}} .cell9{animation:cell9 24s steps(1,end) infinite}
+@keyframes cell10{0%,45.68%{opacity:1}45.98%,100%{opacity:0}} .cell10{animation:cell10 24s steps(1,end) infinite}
+@keyframes cell11{0%,16.49%{opacity:1}16.79%,100%{opacity:0}} .cell11{animation:cell11 24s steps(1,end) infinite}
+@keyframes cell12{0%,40.54%{opacity:1}40.84%,100%{opacity:0}} .cell12{animation:cell12 24s steps(1,end) infinite}
+@keyframes cell13{0%,16.22%{opacity:1}16.52%,100%{opacity:0}} .cell13{animation:cell13 24s steps(1,end) infinite}
+@keyframes cell14{0%,99.10%{opacity:1}99.40%,100%{opacity:0}} .cell14{animation:cell14 24s steps(1,end) infinite}
+@media(prefers-reduced-motion:reduce){.snake{display:none}.active{animation:none}}
+</style>
+<rect x="1" y="1" width="1158" height="312" rx="18" fill="#201221" stroke="#51334e"/>
+<g font-family="Consolas, monospace">
+  <text x="50" y="45" font-size="17" letter-spacing="2.2" fill="#e2a7ce">PUBLIC GITHUB ACTIVITY</text>
+  <text x="1110" y="45" text-anchor="end" font-size="17" fill="#cbb8ce">SNAPSHOT · NOV 21, 2026</text>
+</g>
+<g fill="#f8f0f9" font-family="Georgia, serif" font-size="29">
+  <text x="50" y="89">52 contributions</text>
+  <text x="373" y="89">15 active days</text>
+  <text x="658" y="89">11 on busiest day</text>
+</g>
+<g fill="#cbb8ce" font-family="Consolas, monospace" font-size="14">
+<text x="90" y="118">Dec</text>
+<text x="270" y="118">Feb</text>
+<text x="430" y="118">Apr</text>
+<text x="610" y="118">Jun</text>
+<text x="770" y="118">Aug</text>
+<text x="950" y="118">Oct</text>
+</g>
+<rect x="50" y="127" width="1060" height="140" fill="url(#cells)"/>
+<rect class="active cell0" x="470" y="187" width="16" height="16" rx="4" fill="#68506a"><title>2026-04-15: 2 contributions</title></rect>
+<rect class="active cell1" x="490" y="227" width="16" height="16" rx="4" fill="#d28db6"><title>2026-04-24: 6 contributions</title></rect>
+<rect class="active cell2" x="730" y="167" width="16" height="16" rx="4" fill="#68506a"><title>2026-07-14: 1 contributions</title></rect>
+<rect class="active cell3" x="730" y="187" width="16" height="16" rx="4" fill="#68506a"><title>2026-07-15: 1 contributions</title></rect>
+<rect class="active cell4" x="730" y="207" width="16" height="16" rx="4" fill="#68506a"><title>2026-07-16: 1 contributions</title></rect>
+<rect class="active cell5" x="770" y="207" width="16" height="16" rx="4" fill="#a46c99"><title>2026-07-30: 4 contributions</title></rect>
+<rect class="active cell6" x="770" y="227" width="16" height="16" rx="4" fill="#f4cba7"><title>2026-07-31: 9 contributions</title></rect>
+<rect class="active cell7" x="770" y="247" width="16" height="16" rx="4" fill="#f4cba7"><title>2026-08-01: 11 contributions</title></rect>
+<rect class="active cell8" x="810" y="147" width="16" height="16" rx="4" fill="#d28db6"><title>2026-08-10: 7 contributions</title></rect>
+<rect class="active cell9" x="810" y="207" width="16" height="16" rx="4" fill="#68506a"><title>2026-08-13: 1 contributions</title></rect>
+<rect class="active cell10" x="890" y="187" width="16" height="16" rx="4" fill="#a46c99"><title>2026-09-09: 4 contributions</title></rect>
+<rect class="active cell11" x="930" y="147" width="16" height="16" rx="4" fill="#68506a"><title>2026-09-21: 1 contributions</title></rect>
+<rect class="active cell12" x="930" y="167" width="16" height="16" rx="4" fill="#68506a"><title>2026-09-22: 2 contributions</title></rect>
+<rect class="active cell13" x="950" y="147" width="16" height="16" rx="4" fill="#68506a"><title>2026-09-28: 1 contributions</title></rect>
+<rect class="active cell14" x="1090" y="247" width="16" height="16" rx="4" fill="#68506a"><title>2026-11-21: 1 contributions</title></rect>
+<path class="snake" d="M58 135 L1098 135 L1098 155 L58 155 L58 175 L1098 175 L1098 195 L58 195 L58 215 L1098 215 L1098 235 L58 235 L58 255 L1098 255" pathLength="100" fill="none" stroke="#f6d4a3" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3.25 100"/>
+<g fill="#cbb8ce" font-family="Consolas, monospace" font-size="16">
+  <text x="50" y="291">NOV 2025 – NOV 2026</text><text x="916" y="291">LESS</text><text x="1076" y="291">MORE</text>
+</g>
+<rect x="964" y="278" width="15" height="15" rx="3" fill="#342338"/>
+<rect x="985" y="278" width="15" height="15" rx="3" fill="#68506a"/>
+<rect x="1006" y="278" width="15" height="15" rx="3" fill="#a46c99"/>
+<rect x="1027" y="278" width="15" height="15" rx="3" fill="#d28db6"/>
+<rect x="1048" y="278" width="15" height="15" rx="3" fill="#f4cba7"/>
+</svg>

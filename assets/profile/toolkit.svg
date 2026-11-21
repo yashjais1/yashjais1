@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="191" viewBox="0 0 1160 191" role="img" aria-labelledby="title">
+<title id="title">Toolkit for machine learning, backend development, web development and data</title>
+<rect x="1" y="1" width="1158" height="189" rx="18" fill="#201221" stroke="#51334e"/>
+<text x="36" y="51" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">AI &amp; ML</text><text x="36" y="102" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="23" >PyTorch · TensorFlow</text><text x="36" y="142" fill="#cbb8ce" font-family="Georgia, 'Times New Roman', serif" font-size="22" >LangGraph · SHAP</text>
+<text x="319" y="51" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">BACKEND</text><text x="319" y="102" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="23" >Python · FastAPI</text><text x="319" y="142" fill="#cbb8ce" font-family="Georgia, 'Times New Roman', serif" font-size="22" >Node.js · Express</text>
+<text x="602" y="51" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">WEB</text><text x="602" y="102" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="23" >TypeScript · React</text><text x="602" y="142" fill="#cbb8ce" font-family="Georgia, 'Times New Roman', serif" font-size="22" >Vite</text>
+<text x="885" y="51" fill="#e2a7ce" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.5">DATA</text><text x="885" y="102" fill="#f8f0f9" font-family="Georgia, 'Times New Roman', serif" font-size="23" >PostgreSQL · Redis</text><text x="885" y="142" fill="#cbb8ce" font-family="Georgia, 'Times New Roman', serif" font-size="22" >Qdrant · BullMQ</text>
+<path d="M295 38V151M578 38V151M861 38V151" fill="none" stroke="#51334e" stroke-width="1"/>
+</svg>
